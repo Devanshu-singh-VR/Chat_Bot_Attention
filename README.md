@@ -4,7 +4,8 @@ This is a sequence to sequence Chatbot, which include Encoder, Decoder and
 Attention model, the model is created with Tensorflow 2.5 and the Flask is used for 
 a short front end.
 
-![newatt](https://user-images.githubusercontent.com/75822824/123050665-90e58380-d41e-11eb-982a-28c8f2ef159b.png)
+![newatt](https://user-images.githubusercontent.com/75822824/123050665-90e58380-d41e-11eb-982a-28c8f2ef159b.png) ![image](https://user-images.githubusercontent.com/75822824/136912387-912e9aa6-593f-45d8-aa7a-fa30a639fc9e.png)
+
 
 # File Info
 
